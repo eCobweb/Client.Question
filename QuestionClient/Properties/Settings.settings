@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QuestionClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Q001" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">简明精神量表</Value>
+    </Setting>
+    <Setting Name="Q002" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">心理卫生评测</Value>
+    </Setting>
+    <Setting Name="Q003" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">自测健康评测</Value>
+    </Setting>
+    <Setting Name="Q004" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">酒精依赖疾患识别测验</Value>
+    </Setting>
+    <Setting Name="Q005" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Russell吸烟原因问卷</Value>
+    </Setting>
+    <Setting Name="Q006" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">自杀态度问卷</Value>
+    </Setting>
+    <Setting Name="Q007" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">匹兹堡睡眠质量指数</Value>
+    </Setting>
+    <Setting Name="Q008" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">焦虑自评工表</Value>
+    </Setting>
+    <Setting Name="Q009" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">孤独量表</Value>
+    </Setting>
+    <Setting Name="Q010" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">儿童体质中医辨识表</Value>
+    </Setting>
+    <Setting Name="Q011" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">老年人中医体质辨识表</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

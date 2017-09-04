@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Questionnaires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questionnaire ID="1" Name="简明精神量表" Enable ="0">
+      <Question NO ="1" Text="关心身体健康">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="2" Text="焦虑">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="3" Text="焦感情交流障碍虑">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="4" Text="概念紊乱">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="5" Text="罪恶观念">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="6" Text="紧张">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="7" Text="装相和作态">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="8" Text="夸大">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="9" Text="心境抑郁">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="10" Text="敌对性">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="11" Text="猜疑">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="12" Text="幻觉">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="13" Text="动作迟缓">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="14" Text="不合作">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="15" Text="不寻常思维内容">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="16" Text="情感平淡">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="17" Text="兴奋">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+      <Question NO ="18" Text="定向障碍">
+        <Option Wieght="1">无</Option>
+        <Option Wieght="2">很轻</Option>
+        <Option Wieght="3">轻度</Option>
+        <Option Wieght="4">中度</Option>
+        <Option Wieght="5">偏重</Option>
+        <Option Wieght="6">重度</Option>
+        <Option Wieght="7">极重</Option>
+      </Question>
+    </Questionnaire>
+
+  <Questionnaire ID="2" Name="心理卫生评测" Enable ="0"></Questionnaire>
+  <Questionnaire ID="3" Name="自测健康评测" Enable ="0"></Questionnaire>
+  <Questionnaire ID="4" Name="酒精依赖疾患识别测验" Enable ="0">
+    <Question NO ="1" Text="多久喝一次含酒精饮品？">
+      <Option Wieght="0">从来不</Option>
+      <Option Wieght="1">每月1次或更少</Option>
+      <Option Wieght="2">每月2~4次</Option>
+      <Option Wieght="3">每周2~3次</Option>
+      <Option Wieght="4">每周4次以上</Option>
+    </Question>
+    <Question NO ="2" Text="每天喝酒多少杯？">
+      <Option Wieght="0">1~2杯</Option>
+      <Option Wieght="1">3~4杯</Option>
+      <Option Wieght="2">5~6杯</Option>
+      <Option Wieght="3">7~9杯</Option>
+      <Option Wieght="4">10杯以上</Option>
+    </Question>
+    <Question NO ="3" Text="过去一年中，一次饮酒超过6杯（女性）或8杯（男性）发生过多少回？">
+      <Option Wieght="0">从未发生</Option>
+      <Option Wieght="1">每月不到1次</Option>
+      <Option Wieght="2">每月1次</Option>
+      <Option Wieght="3">每周1次</Option>
+      <Option Wieght="4">每天或几乎每天发生</Option>
+    </Question>
+    <Question NO ="4" Text="发现自己一旦开始喝酒就难以停下来。近一年来，这一现象多久一次">
+      <Option Wieght="0">从未发生</Option>
+      <Option Wieght="1">每月不到1次</Option>
+      <Option Wieght="2">每月1次</Option>
+      <Option Wieght="3">每周1次</Option>
+      <Option Wieght="4">每天或几乎每天发生</Option>
+    </Question>
+    <Question NO ="5" Text="近一年来，因为饮酒而发生工作失误几次？">
+      <Option Wieght="0">从未发生</Option>
+      <Option Wieght="1">每月不到1次</Option>
+      <Option Wieght="2">每月1次</Option>
+      <Option Wieght="3">每周1次</Option>
+      <Option Wieght="4">每天或几乎每天发生</Option>
+    </Question>
+    <Question NO ="6" Text="醉酒之后，次日继续饮酒。近一年有多少回？">
+      <Option Wieght="0">从未发生</Option>
+      <Option Wieght="1">每月不到1次</Option>
+      <Option Wieght="2">每月1次</Option>
+      <Option Wieght="3">每周1次</Option>
+      <Option Wieght="4">每天或几乎每天发生</Option>
+    </Question>
+    <Question NO ="7" Text="近一年来，饮酒后感到内疚和自责，有多少回？">
+      <Option Wieght="0">从未发生</Option>
+      <Option Wieght="1">每月不到1次</Option>
+      <Option Wieght="2">每月1次</Option>
+      <Option Wieght="3">每周1次</Option>
+      <Option Wieght="4">每天或几乎每天发生</Option>
+    </Question>
+    <Question NO ="8" Text="饮酒后第二天记不得第一天醉酒时究竟发生过什么事。这样的情况一年来发生过几次？">
+      <Option Wieght="0">从未发生</Option>
+      <Option Wieght="1">每月不到1次</Option>
+      <Option Wieght="2">每月1次</Option>
+      <Option Wieght="3">每周1次</Option>
+      <Option Wieght="4">每天或几乎每天发生</Option>
+    </Question>
+    <Question NO ="9" Text="你自己或身边人是否因为你醉酒而受过伤？">
+      <Option Wieght="0">没发生过</Option>
+      <Option Wieght="2">发生过，但近一年没有</Option>
+      <Option Wieght="4">近一年发生过</Option>
+    </Question>
+    <Question NO ="10" Text="是否有家人、朋友、医生或其他工作人员为你的饮酒感到担心并建议你少喝酒？">
+      <Option Wieght="0">没发生过</Option>
+      <Option Wieght="2">有，但近一年没有</Option>
+      <Option Wieght="4">近一年发生过</Option>
+    </Question>
+  </Questionnaire>
+
+  <Questionnaire ID="5" Name="Russell吸烟原因问卷" Enable ="0"></Questionnaire>
+  <Questionnaire ID="6" Name="自杀态度问卷" Enable ="0">
+    <Question NO ="1" Text="自杀是一种疯狂的行为">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="2" Text="自杀死亡者应与自然死亡者享受同等待遇">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="3" Text="一般情况下,我不愿意和有过自杀行为的人深交">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="4" Text="在整个自杀事件中,最痛苦的是自杀者的家属">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="5" Text="对于身患绝症又极度痛苦的病人,可由医务人员在法律的支持下帮助病人结束生命">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="6" Text="在处理自杀事件过程中,应该对其家人表示同情和关心,并尽可能为他们提供帮助">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="7" Text="自杀是随人生命尊严的践踏">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="8" Text="不应为自杀死亡者开追悼会">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="9" Text="如果我的朋友自杀未遂,我会比以前更挂心他">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="10" Text="如果我的邻居家里有人自杀，我会逐渐疏远和他们的关系">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="11" Text="安乐死是对人生命尊严的践踏">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="12" Text="自杀是对家庭和社会一种不负责任的行为">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="13" Text="人们不应该对自杀死亡者评头论足">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="14" Text="我对那些反复自杀者很反感,因为他们常常将自杀作为一种控制别人的手段">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="15" Text="对于自杀,自杀者的家属在不同程度上都应负有一定的责任">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="16" Text="假如我自己身患绝症又处于极度痛苦之中,我希望医务人员能帮助我结束自己的生命">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="17" Text="个体为某种伟大的,超过人生命价值的目的而自杀是值得赞许的">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="18" Text="一般情况下,我不愿去看望自杀未遂者,即使 是亲人或好朋友也不例外">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="19" Text="自杀只是一种生命现象,无所谓道德上的好和坏">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="20" Text="自杀未遂者不值得同情">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="21" Text="对于身患绝症又极度痛苦的病人,可不再为其进行维护生命的治疗(被动安乐死)">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="22" Text="自杀是对亲人,朋友的背叛">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="23" Text="人有时为了尊严和荣誉而不得不自杀">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="24" Text="在交友时我不太介意对反时候有过自杀行为">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="25" Text="对自杀未遂者应给予更多的关心和帮助">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="26" Text="当生命已无欢乐可言时,自杀是可以理解的">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="27" Text="假如我自己身患绝症又处于嫉妒痛苦之中,我不愿再接维持生命的治疗">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    <Question NO ="28" Text="一般情况下我不会和家中有过自杀的人结婚">
+      <Option Wieght="5">完全赞同</Option>
+      <Option Wieght="4">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="2">比较不赞同</Option>
+      <Option Wieght="1">完全不赞同</Option>
+    </Question>
+    <Question NO ="29" Text="人应该有选择自杀的权利">
+      <Option Wieght="1">完全赞同</Option>
+      <Option Wieght="2">比较赞同</Option>
+      <Option Wieght="3">中立</Option>
+      <Option Wieght="4">比较不赞同</Option>
+      <Option Wieght="5">完全不赞同</Option>
+    </Question>
+    
+  </Questionnaire>
+
+  <Questionnaire ID="7" Name="匹兹堡睡眠质量指数" Enable ="0"></Questionnaire>
+  <Questionnaire ID="8" Name="焦虑自评工表" Enable ="0">
+    <Question NO ="1" Text="我觉得比平常容易紧张和着急（焦虑）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="2" Text="我无缘无故地感到害怕（害怕）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="3" Text="我容易心里烦乱或觉得惊恐（惊恐）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="4" Text="我觉得我可能将要发疯（发疯感）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="5" Text="我觉得一切都很好，也不会发生什么不幸（不幸预感）">
+      <Option Wieght="4">没有或很少时间有</Option>
+      <Option Wieght="3">有时有</Option>
+      <Option Wieght="2">大部分时间有</Option>
+      <Option Wieght="1">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="6" Text="我手脚发抖打颤（手足颤抖）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="7" Text="我因为头痛，颈痛和背痛而苦恼（躯体疼痛）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="8" Text="我感觉容易衰弱和疲乏（乏力）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="9" Text="我觉得心平气和，并且容易安静坐着（静坐不能）">
+      <Option Wieght="4">没有或很少时间有</Option>
+      <Option Wieght="3">有时有</Option>
+      <Option Wieght="2">大部分时间有</Option>
+      <Option Wieght="1">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="10" Text="我觉得心跳很快（心慌）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="11" Text="我因为一阵阵头晕而苦恼（头昏）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="12" Text="我有晕倒发作或觉得要晕倒似的（晕厥感）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="13" Text="我呼气吸气都感到很容易（呼吸困维）">
+      <Option Wieght="4">没有或很少时间有</Option>
+      <Option Wieght="3">有时有</Option>
+      <Option Wieght="2">大部分时间有</Option>
+      <Option Wieght="1">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="14" Text="我手脚麻木和刺痛（手足刺痛）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="15" Text="我因为胃痛和消化不良而苦恼（胃痛或消化不良）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="16" Text="我常常要小便（尿意频数）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="17" Text="我的手常常是干燥温暖的（多汗）">
+      <Option Wieght="4">没有或很少时间有</Option>
+      <Option Wieght="3">有时有</Option>
+      <Option Wieght="2">大部分时间有</Option>
+      <Option Wieght="1">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="18" Text="我脸红发热（面部潮红）">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="19" Text="我容易入睡并且一夜睡得很好（睡眠障碍）">
+      <Option Wieght="4">没有或很少时间有</Option>
+      <Option Wieght="3">有时有</Option>
+      <Option Wieght="2">大部分时间有</Option>
+      <Option Wieght="1">绝大部分或全部时间都有</Option>
+    </Question>
+    <Question NO ="20" Text="我做恶梦">
+      <Option Wieght="1">没有或很少时间有</Option>
+      <Option Wieght="2">有时有</Option>
+      <Option Wieght="3">大部分时间有</Option>
+      <Option Wieght="4">绝大部分或全部时间都有</Option>
+    </Question>    
+  </Questionnaire>
+  <Questionnaire ID="9" Name="孤独量表" Enable ="0"></Questionnaire>
+  <Questionnaire ID="10" Name="儿童中医体质辨识" Enable ="1">
+    <Question NO ="1" Text="食欲正常，饮食量按期增加。">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="2" Text="自我调节能力强，进食寒热食品，体内阴阳都能自行调和，不会出现明显不适。">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="3" Text="毛发润泽，皮肤柔嫩，面色红润有光泽，唇色红润">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="4" Text="精力充沛，活泼强健，语声清晰，哭声洪亮和顺，睡眠安静">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="5" Text="无盗汗自汗，大便每天1次，成形不干燥，小便正常">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="6" Text="舌体正常，舌淡红，苔薄白，脉滑或缓">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="7" Text="经常出现食欲不佳，进食后消化不好，口气秽臭，进食量少">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="8" Text="神疲懒言，哭声较低，身体虚胖，安静少动">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="9" Text="面色苍白或萎黄，自汗乏力，动则汗多">
+      <Option Wieght="1">没有 (BMI＜24)</Option>
+      <Option Wieght="2">很少 (24≤BMI＜25)</Option>
+      <Option Wieght="3">有时 (25≤BMI＜26)</Option>
+      <Option Wieght="4">经常（26≤BMI＜28）</Option>
+      <Option Wieght="5">总是 (BMI≥28)</Option>
+    </Question>
+    <Question NO ="10" Text="大便溏烂，或夹不消化食物残渣，每日2－3次">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="11" Text="小便量多或正常">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="12" Text="舌色淡，舌体胖有齿痕，苔薄白，脉细">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="13" Text="平素恣食肥腻辛辣煎炒等食品，尤其进食“燥热”食品后，易出现不适">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="14" Text="唇红，面色偏红，或有低热">
+      <Option Wieght="1">一年＜2次</Option>
+      <Option Wieght="2">一年感冒2-4次</Option>
+      <Option Wieght="3">一年感冒5-6次</Option>
+      <Option Wieght="4">一年8次以上</Option>
+      <Option Wieght="5">几乎每月都感冒</Option>
+    </Question>
+    <Question NO ="15" Text="烦躁多啼，夜卧不安，或睡中头汗出，不耐热">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="16" Text="口臭，口渴喜冷饮">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="17" Text="大便干燥，小便黄">
+      <Option Wieght="1">从来没有</Option>
+      <Option Wieght="2">一年1、2次</Option>
+      <Option Wieght="3">一年3、4次</Option>
+      <Option Wieght="4">一年5、6次</Option>
+      <Option Wieght="5">每次遇到上述原因都过敏</Option>
+    </Question>
+    <Question NO ="18" Text="舌质红，苔黄厚或腻，脉滑数">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="19" Text="食欲不振，饮食量较少，饮食不慎则觉明显不适">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="20" Text="面色苍白或萎黄">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="21" Text="有时可见吐乳或酸馊食物残渣">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="22" Text="腹部胀满，大便不调，酸臭或便秘，或夹有食物残渣">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="23" Text="小便浑浊、量少或正常">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="24" Text="舌色淡，舌体胖有齿痕，苔白厚，脉细">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="25" Text="平素恣食肥腻辛辣煎炒等食品">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="26" Text="易出现口腔溃疡、失眠、便秘等疾病">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="27" Text="面红，心神不宁，多动不安，易兴奋，发脾气，注意力不集中">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="28" Text="挑食，纳差，口臭，大便干结，小便黄">
+      <Option Wieght="1">根本不(腹围小于80cm，相当于2.4尺)</Option>
+      <Option Wieght="2">有一点(腹围80-85cm，2.4-2.55尺)</Option>
+      <Option Wieght="3">有些(腹围86-90cm，2.56-2.7尺)</Option>
+      <Option Wieght="4">相当(腹围91-105cm，2.71-3.15尺)</Option>
+      <Option Wieght="5">非常(腹围大于105cm，3.15尺)</Option>
+    </Question>
+    <Question NO ="29" Text="入睡难，睡觉易惊醒，夜间啼哭，踢被子、掀衣服">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="30" Text="嘴唇偏红，舌质红，苔黄干，脉滑数">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+  </Questionnaire>
+  <Questionnaire ID="11" Name="老年人中医体质辨识" Enable ="1">
+
+    <Question NO ="1" Text="您精力充沛吗？（指精神头足，乐于做事）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="2" Text="您容易疲乏吗？（指体力如何，是否稍微活动一下或做一点家务劳动就感到累）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="3" Text="您容易气短，呼吸短促，接不上气吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="4" Text="您说话声音低弱无力吗?（指说话没有力气）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="5" Text="您感到闷闷不乐、情绪低沉吗?（指心情不愉快，情绪低落）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="6" Text="您容易精神紧张、焦虑不安吗?（指遇事是否心情紧张）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="7" Text="您因为生活状态改变而感到孤独、失落吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="8" Text="您容易感到害怕或受到惊吓吗?">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="9" Text="您感到身体超重不轻松吗?(感觉身体沉重)[BMI指数=体重（kg）/身高2（m）]">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="10" Text="您眼睛干涩吗?">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="11" Text="您手脚发凉吗?（不包含周围温度低或穿的少导致的手脚发冷）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="12" Text="您胃脘部、背部或腰膝部怕冷吗？（指上腹部、背部、腰部或膝关节等，有一处或多处怕冷）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="13" Text="您比一般人耐受不了寒冷吗？（指比别人容易害怕冬天或是夏天的冷空调、电扇等）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="14" Text="您容易患感冒吗?（指每年感冒的次数）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="15" Text="您没有感冒时也会鼻塞、流鼻涕吗?">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="16" Text="您有口粘口腻，或睡眠打鼾吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="17" Text="您容易过敏(对药物、食物、气味、花粉或在季节交替、气候变化时)吗?">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="18" Text="您的皮肤容易起荨麻疹吗? (包括风团、风疹块、风疙瘩)">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="19" Text="您的皮肤在不知不觉中会出现青紫瘀斑、皮下出血吗?（指皮肤在没有外伤的情况下出现青一块紫一块的情况）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="20" Text="您的皮肤一抓就红，并出现抓痕吗?（指被指甲或钝物划过后皮肤的反应）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="21" Text="您皮肤或口唇干吗?">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="22" Text="您有肢体麻或固定部位疼痛的感觉吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="23" Text="您面部或鼻部有油腻感或者油亮发光吗?（指脸上或鼻子）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="24" Text="您面色或目眶晦黯，或出现褐色斑块/斑点吗?">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="25" Text="您有皮肤湿疹、疮疖吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="26" Text="您感到口干咽燥、总想喝水吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="27" Text="您感到口苦或嘴里有异味吗?（指口苦或口臭）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="28" Text="您腹部肥大吗?（指腹部脂肪肥厚）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="29" Text="您吃(喝)凉的东西会感到不舒服或者怕吃(喝)凉的东西吗？（指不喜欢吃凉的食物，或吃了凉的食物后会不舒服）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="30" Text="您有大便黏滞不爽、解不尽的感觉吗?(大便容易粘在马桶上)">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="31" Text="您容易大便干燥吗?">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="32" Text="您舌苔厚腻或有舌苔厚厚的感觉吗?（如果自我感觉不清楚可由调查员观察后填写）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO ="33" Text="您舌下静脉瘀紫或增粗吗？（可由调查员辅助观察后填写）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+  </Questionnaire>
+
+  <Questionnaire ID="12" Name="成人中医体质辨识" Enable ="1">
+    <Question NO="1" Text="您手脚发凉吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="2" Text="您胃脘部、背部或腰膝部怕冷吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="3" Text="您感到怕冷、衣服比别人穿得多吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="4" Text="您比一般人不了寒冷（冬天的寒冷，夏天的冷空调、电扇等。">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="5" Text="您比别人容易患感冒吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="6" Text="您吃（喝）凉的东西会感到不舒服或者怕吃（喝）凉东西吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="7" Text="你受凉或吃（喝）凉的东西后，容易腹泻（拉肚子）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="8" Text="您感到手脚心发热吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="9" Text="您感觉身体、脸上发热吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="10" Text="您皮肤或口唇干吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="11" Text="您口唇的颜色比一般人红吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="12" Text="您容易便秘或大便干燥吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="13" Text="您面部两潮红或偏红吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="14" Text="您感到眼睛干涩吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="15" Text="您活动量稍大就容易出虚汗吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="16" Text="你容易疲乏吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="17" Text="您容易气短（呼吸短促，接不上气吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="18" Text="您容易心慌吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="19" Text="您容易头晕或站起时晕眩吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="20" Text="您比别人容易患感冒吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="21" Text="您喜欢安静、懒得说话吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="22" Text="您说话声音无力吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="23" Text="您活动量就容易出虚汗吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="24" Text="您感到胸闷或腹部胀满吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="25" Text="您感到身体学生不轻松或不爽快吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="26" Text="您腹部肥满松软吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="27" Text="您有额部油脂分泌多的现象吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="28" Text="您上眼睑比别人肿（仍轻微隆起的现象）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="29" Text="您嘴里有黏黏的感觉吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="30" Text="您平时痰多，特别是咽喉部总感到有痰堵着吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="31" Text="您舌苔厚腻或有舌苔厚厚的感觉吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="32" Text="您面部或鼻部有油腻感或者油亮发光吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="33" Text="你容易生痤疮或疮疖吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="34" Text="您感到口苦或嘴里有异味吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="35" Text="您大使黏滞不爽、有解不尽的感觉吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="36" Text="您小便时尿道有发热感、尿色浓（深）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="37" Text="您带下色黄（白带颜色发黄）吗？（限女性回答）">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="38" Text="您的阴囊部位潮湿吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="39" Text="您的皮肤在不知不觉中会出现青紫瘀斑（皮下出血）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="40" Text="您两颧部有细微红丝吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="41" Text="您身体上有哪里疼痛吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="42" Text="您面色晦黯或容易出现褐斑吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="43" Text="您容易有黑眼圈吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="44" Text="您容易忘事（健忘）吗">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="45" Text="您口唇颜色偏黯吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="46" Text="您没有感冒时也会打喷嚏吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="47" Text="您没有感冒时也会鼻塞、流鼻涕吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="48" Text="您有因季节变化、温度变化或异味等原因而咳喘的现象吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="49" Text="您容易过敏（对药物、食物、气味、花粉或在季节交替、气候变化时）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="50" Text="您的皮肤容易起荨麻疹（风团、风疹块、风疙瘩）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="51" Text="您的因过敏出现过紫癜（紫红色瘀点、瘀斑）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="52" Text="您的皮肤一抓就红，并出现抓痕吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="53" Text="您感到闷闷不乐吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="54" Text="您容易精神紧张、焦虑不安吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="55" Text="您多愁善感、感情脆弱吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="56" Text="您容易感到害怕或受到惊吓吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="57" Text="您胁肋部或乳房腹痛吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="58" Text="您无缘无故叹气吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="59" Text="您咽喉部有异物感，且吐之不出、咽之不下吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="60" Text="您精力充沛吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="61" Text="您容易疲乏吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="62" Text="您说话声音无力吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="63" Text="您感到闷闷不乐吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="64" Text="您比一般 人耐受不了寒冷（冬天的寒冷，夏天的冷空调、电扇）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="65" Text="您能适应外界自然和社会环境的变化吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="66" Text="您容易失眠吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+    <Question NO="67" Text="您容易忘事（健忘）吗？">
+      <Option Wieght="1">没有</Option>
+      <Option Wieght="2">很少</Option>
+      <Option Wieght="3">有时</Option>
+      <Option Wieght="4">经常</Option>
+      <Option Wieght="5">总是</Option>
+    </Question>
+  </Questionnaire>
+</Questionnaires>

@@ -1,0 +1,8 @@
+F:\Peter\MIST.QuestionClient.Git\QuestionClient\eCC.Tool\bin\Debug\eCC.Tool.dll
+F:\Peter\MIST.QuestionClient.Git\QuestionClient\eCC.Tool\bin\Debug\eCC.Tool.pdb
+F:\Peter\MIST.QuestionClient.Git\QuestionClient\eCC.Tool\obj\Debug\eCC.Tool.dll
+F:\Peter\MIST.QuestionClient.Git\QuestionClient\eCC.Tool\obj\Debug\eCC.Tool.pdb
+E:\develop\MIST.Client\QuestionClient\eCC.Tool\bin\Debug\eCC.Tool.dll
+E:\develop\MIST.Client\QuestionClient\eCC.Tool\bin\Debug\eCC.Tool.pdb
+E:\develop\MIST.Client\QuestionClient\eCC.Tool\obj\Debug\eCC.Tool.dll
+E:\develop\MIST.Client\QuestionClient\eCC.Tool\obj\Debug\eCC.Tool.pdb

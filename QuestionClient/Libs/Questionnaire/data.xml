@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Q001 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<C1>C1</C1>
+		<C2>C2</C2>
+	</record>
+	<record>
+		<C1>C1</C1>
+		<C2>C2</C2>
+	</record>
+</Q001>

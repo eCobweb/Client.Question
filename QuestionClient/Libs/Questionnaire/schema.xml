@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Questionnaires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questionnaire ID=1 Name="简明精神量表">
+       <Q>
+			<NO>21</NO>
+			<Text>心境抑郁</Text>
+			<Options>
+				<Option Wieght=1>xxx</Option>
+				<Option Wieght=2>xxx</Option>
+			</Options>
+	   </Q>
+	   
+	   <Q>
+			<NO>22</NO>
+			<Text>敌对性</Text>
+			<Options>
+				<Option Wieght=1>xxx</Option>
+				<Option Wieght=2>xxx</Option>
+			</Options>
+	   </Q>        
+    </Questionnaire>
+	
+	<Questionnaire ID=2 Name="自杀态度问卷">
+       <Q>
+			<NO>21</NO>
+			<Text>心境抑郁</Text>
+			<Options>
+				<Option Wieght=1>xxx</Option>
+				<Option Wieght=2>xxx</Option>
+			</Options>
+	   </Q>
+	   
+	   <Q>
+			<NO>22</NO>
+			<Text>敌对性</Text>
+			<Options>
+				<Option Wieght=1>xxx</Option>
+				<Option Wieght=2>xxx</Option>
+			</Options>
+	   </Q>        
+    </Questionnaire>
+	
+</Questionnaires>
