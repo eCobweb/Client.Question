@@ -139,15 +139,7 @@ namespace QuestionClient
             }
         }
 
-        /// <summary>
-        /// Load wkhtmltopdf command line program
-        /// note: 
-        /// We can copy the latest wkhtmltopdf.exe 
-        /// to the Bin folder
-        /// ---------------------------
-        /// modified by Peter 10/26/16
-        /// we also want to load Ghostscript lib , merge them together!
-        /// </summary>
+        //loading
         private void LoadWkHtmltoPdfLib(string wrapperStartKey = OSHelper.WapperStartKey)
         {
             var appPath = AppDomain.CurrentDomain.BaseDirectory;
